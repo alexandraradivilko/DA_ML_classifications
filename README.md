@@ -1,2 +1,2 @@
-# DA_ML_classifications
+# DA_ML_classification
 practice
